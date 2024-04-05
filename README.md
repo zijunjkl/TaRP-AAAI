@@ -1,7 +1,7 @@
 # Type-augmented relation prediction in knowledge graphs
 > Zijun Cui, Pavan Kapanipathi, Kartik Talamadupula, Tian Gao, and Qiang Ji (AAAI 2021)
 
-![](Overview.png)
+![](Overview.pdf)
 
 This is a folder for method: Type-augmented Relation Prediction
  
