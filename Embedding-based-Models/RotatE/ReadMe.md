@@ -1,5 +1,6 @@
 
 This is the folder calculating likelihood scores given embedding-based model RotatE. 
+
 Folder `data`  stores the datasets used for RotatE training
 
 Folder `RotatE_(XXX)` stores the learned embeddings on dataset XXX.
